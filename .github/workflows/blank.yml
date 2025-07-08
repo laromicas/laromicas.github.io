@@ -5,10 +5,10 @@ name: CI
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "master" branch
-  push:
-    branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
+  # push:
+  #   branches: [ "master" ]
+  # pull_request:
+  #   branches: [ "master" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -24,13 +24,12 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
-
+      - name: Setup SSH
+        uses: webfactory/ssh-agent@v0.9.0 # Use the latest version
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
       # Runs commands to update
-      - name: Run check of pwd
-        run: pwd
-      - name: Run check of what's in pwd
-        run: ls
-      - name: Run a one-line script
+      - name: Update JSON files
         run: ./scripts/download_jsons.sh ${{ secrets.GOOGLE_API_KEY }}
       - name: switching from HTTPS to SSH
         run: git remote set-url origin git@github.com:laromicas/laromicas.github.io.git
@@ -39,7 +38,10 @@ jobs:
       - name: stage changed files
         run: git add .
       - name: commit changed files
-        run: git commit -m "Auto updating jsons"
+        run: |
+          git config --global user.email ${{ secrets.USER_EMAIL }}
+          git config --global user.name ${{ secrets.USER_NAME }}
+          git commit -m "Auto updating jsons"
       - name: fetch from master
         run: git fetch origin master
       - name: push code to master
