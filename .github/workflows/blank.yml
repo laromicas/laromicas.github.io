@@ -25,12 +25,22 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
-      # Runs a single command using the runners shell
+      # Runs commands to update
+      - name: Run check of pwd
+        run: pwd
+      - name: Run check of what's in pwd
+        run: ls
       - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+        run: ./scripts/download_jsons.sh ${{ secrets.GOOGLE_API_KEY }}
+      - name: switching from HTTPS to SSH
+        run: git remote set-url origin git@github.com:laromicas/laromicas.github.io.git
+      - name: check for changes
+        run: git status
+      - name: stage changed files
+        run: git add .
+      - name: commit changed files
+        run: git commit -m "Auto updating jsons"
+      - name: fetch from master
+        run: git fetch origin master
+      - name: push code to master
+        run: git push origin HEAD:master
