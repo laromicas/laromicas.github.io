@@ -1,0 +1,622 @@
+{
+  "range": "MIA!A1:F982",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "system",
+      "game",
+      "size",
+      "crc32",
+      "md5",
+      "sha1"
+    ],
+    [
+      "Sega - RingEdge",
+      "Border Break (Japan)",
+      "3470262272",
+      "745f5ad9",
+      "b99095971f99a33e5757ebfe12e3a254",
+      "e7d2351698e35e3bfc29803b8c48a8d542ea81f2"
+    ],
+    [
+      "Sega - RingEdge",
+      "Border Break (No. 1) (Japan)",
+      "",
+      "",
+      "",
+      "fe4d73f17ffaf44fa625d0aed3f9ad3696dd64ee"
+    ],
+    [
+      "Sega - RingEdge",
+      "Border Break (No. 2) (Japan)",
+      "",
+      "",
+      "",
+      "ca9fe883a865c265f533aab9f811867f0fcb0d00"
+    ],
+    [
+      "Sega - RingEdge",
+      "World Club Champion Football 2013-2014 (Japan) (Rev A)",
+      "",
+      "",
+      "",
+      "5665947a8fb9afd05b0d5ce1e0178f03229815ae"
+    ],
+    [
+      "Sega - RingEdge 2",
+      "Code of Joker (Japan) (Rev C)",
+      "",
+      "",
+      "",
+      "e0de5f59073565d8f34130ed0737c10ec6e5f2ec"
+    ],
+    [
+      "Sega - RingEdge 2",
+      "Code of Joker (No. 2) (Japan) (Rev F)",
+      "",
+      "",
+      "",
+      "a34c3b5f736685ebab3fd110426309b1846725d0"
+    ],
+    [
+      "Sega - Lindbergh",
+      "VBIOS Update (Japan) (Rev A)",
+      "",
+      "",
+      "",
+      "80cfeb01835cca9ed7eb2cb42a76c3603a9d1b5f"
+    ],
+    [
+      "Sega - Lindbergh",
+      "Virtua Tennis 3 (Export)",
+      "",
+      "",
+      "",
+      "e236dfbcb87d31580baaf6690b5b7ed64d28b738"
+    ],
+    [
+      "Sega - Chihiro",
+      "Sega Network Taisen Mahjong MJ2 (Japan) (Rev D)",
+      " ",
+      "",
+      " ",
+      "b5a93421c4e42adeeda3b8ae5d7eb712c022ef6b"
+    ],
+    [
+      "Konami - e-Amusement",
+      "Mah-Jong Fight Club 6 (Japan) (Client-you Application Disc)",
+      "",
+      "",
+      "",
+      "fa356db9b107fe93f1729689d7ecd457966ba492"
+    ],
+    [
+      "Konami - e-Amusement",
+      "Mah-Jong Fight Club 6 (Japan) (Client-you System Disc)",
+      "",
+      "",
+      "",
+      "21cd7b035a406dae8cd4182f422aafdd3874c1ed"
+    ],
+    [
+      "Konami - e-Amusement",
+      "Pride of Professionals - Baseball Heroes 2012 (Japan) (Application Disc 01 - Ekishou Wide Monitor Taiouban)",
+      "",
+      "",
+      "",
+      "8be2c9dcb01a1bd8ef0e04e10dbb9966587a067e"
+    ],
+    [
+      "Konami - e-Amusement",
+      "Pride of Professionals - Baseball Heroes 2012 (Japan) (Application Disc 02 - Ekishou Wide Monitor Taiouban)",
+      "",
+      "",
+      "",
+      "0831035b6efe0dd8857ab7a319f0eed6e376bef8"
+    ],
+    [
+      "Konami - e-Amusement",
+      "Pride of Professionals - Baseball Heroes 2012 (Japan) (System Disc - Ekishou Wide Monitor Taiouban)",
+      "",
+      "",
+      "",
+      "fd8c40f4a904bf5d1e31046c99db50636c05ea68"
+    ],
+    [
+      "Konami - e-Amusement",
+      "Quiz Magic Academy - Kenja no Tobira (Japan) (Application Disc - Kuraianto Center Monitor Kyouyou)",
+      "",
+      "",
+      "",
+      "e06dd4d29873e9674537a5173e290338eccfb3b5"
+    ],
+    [
+      "Konami - e-Amusement",
+      "Quiz Magic Academy - Kenja no Tobira (Japan) (System Disc - Kuraianto Center Monitor Kyouyou)",
+      "",
+      "",
+      "",
+      "162cb0bd7815a39283a6231395b000d0c51ae3df"
+    ],
+    [
+      "Konami - e-Amusement",
+      "Quiz Magic Academy 6 (Japan) (Application Disc 1 - Kuraianto Center Monitor Kyouyou)",
+      "",
+      "",
+      "",
+      "9d3b75c1d374f5364f76dfab79bc847c85c52a96"
+    ],
+    [
+      "Konami - e-Amusement",
+      "Quiz Magic Academy 6 (Japan) (Application Disc 2 - Kuraianto Center Monitor Kyouyou)",
+      "",
+      "",
+      "",
+      "ddb13285d954cf7a41c2b6918fedeffe4cdfd947"
+    ],
+    [
+      "Konami - e-Amusement",
+      "Quiz Magic Academy 6 (Japan) (Application Disc 3 - Kuraianto Center Monitor Kyouyou)",
+      "",
+      "",
+      "",
+      "8ad6c7e572b32efb84bb4e45c4668d3a4a7a15af"
+    ],
+    [
+      "Konami - e-Amusement",
+      "Quiz Magic Academy 6 (Japan) (System Disc - Kuraianto Center Monitor Kyouyou)",
+      "",
+      "",
+      "",
+      "b7d78694f27f07f79c87d71a42377f801f352215"
+    ],
+    [
+      "Konami - e-Amusement",
+      "Quiz Magic Academy 7 (Japan) (Application Disc - Kuraianto Center Monitor Kyouyou)",
+      "",
+      "",
+      "",
+      "8259e444bba3e9e1de76b583d8a2861e3c038b0b"
+    ],
+    [
+      "Konami - e-Amusement",
+      "Quiz Magic Academy 7 (Japan) (System Disc - Kuraianto Center Monitor Kyouyou)",
+      "",
+      "",
+      "",
+      "794fb480ae424eb424ed8e72e9842c255a555b13"
+    ],
+    [
+      "Konami - e-Amusement",
+      "Toukyuu Oukoku Gashaaaan (Asia) (Application Disc)",
+      "",
+      "",
+      "",
+      "a4c2217c804b2fe1a919ae03f135c6e79cf7bc0f"
+    ],
+    [
+      "Konami - e-Amusement",
+      "Toukyuu Oukoku Gashaaaan (Asia) (System Disc)",
+      "",
+      "",
+      "",
+      "356c42df2d70b385ae6202ac3890f1725359855b"
+    ],
+    [
+      "NEC - PC-98 series",
+      "Logicool Mouseware 8.2J (Japan) (En,Ja)",
+      "",
+      "",
+      "",
+      "7e2548ea1d015da27a7b3823f478cb19fbcd4ff5"
+    ],
+    [
+      "Bandai - Playdia Quick Interactive System",
+      "Go! Go! Ackman Planet (Japan)",
+      "",
+      "",
+      "",
+      "7dc243bde5b89667e852804c26bb88ce95c5f15f"
+    ],
+    [
+      "Bandai - Playdia Quick Interactive System",
+      "Go! Go! Ackman Planet (Japan)",
+      "",
+      "",
+      "",
+      "d8913abe6ca44cfb4e12ccfcb1c566a9014bc1b3"
+    ],
+    [
+      "Sega - Dreamcast",
+      "Dream Preview Vol. 1 (Japan)",
+      "",
+      "",
+      "",
+      "eec4b2e2cebda69e33c2ef0add8723ba83e2c576"
+    ],
+    [
+      "Sega - Mega CD & Sega CD",
+      "WireHead (Europe) (Beta) (1995-09-12)",
+      "",
+      "",
+      "",
+      "46d2cc707718e1e8a9e25910cd3dc2645b733857"
+    ],
+    [
+      "Philips - CD-i",
+      "Caesars World of Gambling (Japan)",
+      "",
+      "",
+      "",
+      "7cc6f72d4a787db8cfa8ee288d5b90df84ba50f1"
+    ],
+    [
+      "Philips - CD-i",
+      "French Impressionists, The - France Inshouha (Japan)",
+      "",
+      "",
+      "",
+      "61da2c38f0abeb9aeeee41f81488d5cbc506a754"
+    ],
+    [
+      "Philips - CD-i",
+      "James Brown - Non Stop Hit Machine (Japan)",
+      "",
+      "",
+      "",
+      "0f18f2e450100ca09f828272d282eb10297f80b6"
+    ],
+    [
+      "Philips - CD-i",
+      "Louis Armstrong - An American Songbook (Japan)",
+      "",
+      "",
+      "",
+      "33c81e4d416a49448f39f30a2a41080b64e7ab31"
+    ],
+    [
+      "Philips - CD-i",
+      "Nobelia (USA, Europe) (Unl)",
+      "",
+      "",
+      "",
+      "154ec94e6cfce386e22151454fa3196138710f5b"
+    ],
+    [
+      "Philips - CD-i",
+      "Nuri e Asobi II - Paint School II (Japan)",
+      "",
+      "",
+      "",
+      "6c41cb423336b5a6b01c427f2cd5bbe6a3b435a6"
+    ],
+    [
+      "Philips - CD-i",
+      "Piano, The (Korea) (Disc 1)",
+      "",
+      "",
+      "",
+      "a4665e48c288902324b4e3bb7ff46901ed295c13"
+    ],
+    [
+      "Philips - CD-i",
+      "Piano, The (Korea) (Disc 2)",
+      "",
+      "",
+      "",
+      "4ec6320a644623add7c3430136333625a662efac"
+    ],
+    [
+      "Philips - CD-i",
+      "Revolution in Color, A - Russia Kindai Kaiga no Reimei (Japan) (En,Ja,Fr,De,Es,It,Nl)",
+      "",
+      "",
+      "",
+      "9aad42f8698358a43f7c15d565b98e288780a610"
+    ],
+    [
+      "Philips - CD-i",
+      "Rhythm Maker (Japan) (En,Ja)",
+      "",
+      "",
+      "",
+      "b53e98d2367d2148924465f9c04126a1ea227fe2"
+    ],
+    [
+      "Philips - CD-i",
+      "Richard Scarry's Best Neighbourhood Disc Ever - Richard Scarry no Saikou ni Tanoshii Nakama-tachi (Japan)",
+      "",
+      "",
+      "",
+      "ec643657f387de612868da01cf7e866c0ce9bf21"
+    ],
+    [
+      "Philips - CD-i",
+      "Richard Scarry's Busiest Neighbourhood Disc Ever - Richard Scarry no Isogashii Nakama-tachi (Japan)",
+      "",
+      "",
+      "",
+      "0483ba38e575a23572835084c1f20beeab70a8aa"
+    ],
+    [
+      "Philips - CD-i",
+      "Sesame Street Kazu Asobi - A Visit to Sesame Street - Numbers (Japan)",
+      "",
+      "",
+      "",
+      "b1e5efdbfd14eeee012e6527087cc0e7ec8477ff"
+    ],
+    [
+      "Philips - CD-i",
+      "Sesame Street Moji Asobi - A Visit to Sesame Street - Letters (Japan)",
+      "",
+      "",
+      "",
+      "b2fe4f8316b8ef5654034e811ea8a6095cedc972"
+    ],
+    [
+      "Philips - CD-i",
+      "TR-I - No World Order (Japan)",
+      "",
+      "",
+      "",
+      "479963bd24d7ff1e26b4e55cf2316cd34d891780"
+    ],
+    [
+      "Sony - PlayStation",
+      "Casper - Friends Around the World (Korea)",
+      "",
+      "",
+      "",
+      "3860c303ef531e48b10be804130dbfa82f39314d"
+    ],
+    [
+      "Sony - PlayStation",
+      "Ehrgeiz - God Bless the Ring (Japan) (Demo 2)",
+      "",
+      "",
+      "",
+      "422e661441eb4a62ed9e2dfa7debc4aadcd29d15"
+    ],
+    [
+      "Sony - PlayStation",
+      "Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-02-04)",
+      "",
+      "",
+      "",
+      "981e010ba38520af35e5278f9393d4343ef75936"
+    ],
+    [
+      "Sony - PlayStation",
+      "Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-06-06)",
+      "",
+      "",
+      "",
+      "d425b5afae5278272176628bd54f64e09617ccfa"
+    ],
+    [
+      "Sony - PlayStation",
+      "Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-06-29)",
+      "",
+      "",
+      "",
+      "c72e6912bc0c4f43f55f9634ab38f88209f3206d"
+    ],
+    [
+      "Sony - PlayStation",
+      "Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-07-25)",
+      "",
+      "",
+      "",
+      "36bbf3e4674eaf79a24d0231c0ba23c863454ffa"
+    ],
+    [
+      "Sony - PlayStation",
+      "Frogger 2 - Swampy's Revenge (Europe) (En,Fr,De,It) (Beta) (2000-03-01)",
+      "",
+      "",
+      "",
+      "560a651e336203975b42223c895ed4934fd824a3"
+    ],
+    [
+      "Sony - PlayStation",
+      "Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-04-05)",
+      "",
+      "",
+      "",
+      "43fac4bf5f3c14ad6048df475eaea1ff374727fe"
+    ],
+    [
+      "Sony - PlayStation",
+      "Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-06-09)",
+      "",
+      "",
+      "",
+      "ff4aa978bbc14269a2dbd16df67d09758197fe93"
+    ],
+    [
+      "Sony - PlayStation",
+      "Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-06-14)",
+      "",
+      "",
+      "",
+      "fe5b0b63c11cc557f3407a52153052162ab7a966"
+    ],
+    [
+      "Sony - PlayStation",
+      "Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-07-18)",
+      "",
+      "",
+      "",
+      "7ab669c57924dbdc759e9daf8bfe3d1bd5080163"
+    ],
+    [
+      "Sony - PlayStation",
+      "Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-07-25)",
+      "",
+      "",
+      "",
+      "d5014c834a0f276aa0cb7384631378014a1a4908"
+    ],
+    [
+      "Sony - PlayStation",
+      "Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-07-31)",
+      "",
+      "",
+      "",
+      "b3e91cd016864b565e32a8889bac11843a206976"
+    ],
+    [
+      "Sony - PlayStation",
+      "Ore no Shikabane o Koete Yuke (Japan) (Demo)",
+      "",
+      "",
+      "",
+      "62b49885f0f4a5cf967fd9e185123aab905033ea"
+    ],
+    [
+      "Sony - PlayStation 2",
+      "Gran Turismo - Subaru Driving Simulator Version (Japan)",
+      "",
+      "",
+      "",
+      "b81396aa809ef2328e81e4e52f5a31a35fbee4c7"
+    ],
+    [
+      "Sony - PlayStation 2",
+      "Gran Turismo 3 - A-Spec - Autobacs Tentou Shiyuu Disc (Japan)",
+      "",
+      "",
+      "",
+      "6b7bd6c5d05d8739ad1fb68920814ca1a4b70cbd"
+    ],
+    [
+      "Sony - PlayStation 2",
+      "Gran Turismo 4 - Lupo Cup Training Version (Japan)",
+      "",
+      "",
+      "",
+      "f331b39f55ce11c56c2960f3858344e62f0b1dac"
+    ],
+    [
+      "Sony - PlayStation 2",
+      "LEGO Super Soccer Adventure (Europe) (Proto) (2003-03-27)",
+      "",
+      "",
+      "",
+      "14c1553e5884ee6cc702c79743ce828b5fdb78df"
+    ],
+    [
+      "Sony - PlayStation 2",
+      "LEGO Super Soccer Adventure (Europe) (Proto) (2003-04-24)",
+      "",
+      "",
+      "",
+      "46098fc1ff7a8dcb25339965537452c0a8c34ce9"
+    ],
+    [
+      "Sony - PlayStation 2",
+      "Routes PE (Japan) (Shokai Genteiban)",
+      "",
+      "",
+      "",
+      "5be42f30d1892ec41ceeaed3be7cbea03067894a"
+    ],
+    [
+      "Sony - PlayStation 2",
+      "Taz - Wanted (Europe) (Beta) (2001-11-27)",
+      "",
+      "",
+      "",
+      "68ea2802fecf8e454423d9837b82a4b6311e6f33"
+    ],
+    [
+      "Sony - PlayStation 2",
+      "Taz - Wanted (Europe) (Beta) (2002-04-02)",
+      "",
+      "",
+      "",
+      "944deb3950b17873f0838de76589c56db2935661"
+    ],
+    [
+      "Sony - PlayStation Portable",
+      "Burnout Legends (Asia)",
+      "",
+      "",
+      "",
+      "fc9770498e9ecee1d522c67066cdf9acd4f0996b"
+    ],
+    [
+      "Sony - PlayStation Portable",
+      "Gun Showdown (USA) (Beta) (2006-08-18)",
+      "",
+      "",
+      "",
+      "471fc7f10ce3101a5be28c1cd8989199ff21d175"
+    ],
+    [
+      "Sony - PlayStation Portable",
+      "MLB 09 - The Show (Asia) (Sample)",
+      "",
+      "",
+      "",
+      "938b76a08e0575eebc92f988f418f71343427f90"
+    ],
+    [
+      "Sony - PlayStation Portable",
+      "NBA 08 (Asia) (Sample)",
+      "",
+      "",
+      "",
+      "dd93a36353b30ce5a6566b583f3d4b750caec616"
+    ],
+    [
+      "Sony - PlayStation Portable",
+      "Retail Sampler No. 3 for PSP (Europe)",
+      "",
+      "",
+      "",
+      "4b073c9493cda3c1e6934d0f270761dc27f3a4e5"
+    ],
+    [
+      "Sony - PlayStation Portable",
+      "Tekken 6 (Asia) (En,Ja,Fr,De,Es,It,Ko,Ru)",
+      "",
+      "",
+      "",
+      "40b09ac6e0d1371f3a4309671584bdecdc571845"
+    ],
+    [
+      "Sony - PlayStation Portable",
+      "WipEout Pure (Japan) (En,Ja) (Beta)",
+      "",
+      "",
+      "",
+      "17625cfce98404dd82c8e001575d68a8613bb8be"
+    ],
+    [
+      "Sony - PlayStation Portable",
+      "WRC - FIA World Rally Championship (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (Beta) (2005-04-21)",
+      "",
+      "",
+      "",
+      "88a19042041ff368b9cb887432cb5255c654c33c"
+    ],
+    [
+      "VM Labs - NUON",
+      "Interactive Sampler Spring 2000 (USA)",
+      "",
+      "",
+      "",
+      "17af8c439dbd81b1e94819b5d1a9edfecd20e51d"
+    ],
+    [
+      "VM Labs - NUON",
+      "Iron Soldier 3 (USA) (Songbird Rerelease)",
+      "",
+      "",
+      "",
+      "d7992ae070de859a83f1b4bbfaf848202c1a8573"
+    ]
+  ]
+}

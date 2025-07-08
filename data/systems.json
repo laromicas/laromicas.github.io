@@ -1,0 +1,2190 @@
+{
+  "range": "Systems!A1:E1107",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "Company",
+      "Name",
+      "Override",
+      "Configs",
+      "SystemType"
+    ],
+    [
+      "Acorn",
+      "Archimedes",
+      "",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
+      "Computer"
+    ],
+    [
+      "Acorn",
+      "Atom",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Acorn",
+      "Risc PC",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "ACT",
+      "Apricot PC Xi",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Amstrad",
+      "CPC",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "",
+      "Merit Megatouch",
+      "{\"company\": \"Merit\", \"system\": \"Megatouch\"}",
+      "",
+      "Arcade"
+    ],
+    [
+      "Analogue",
+      "Analogue Pocket",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "APF",
+      "Imagination Machine",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "APF",
+      "MP-1000",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Apple",
+      "Macintosh",
+      "",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}, \"if_suffix\": {\"SBI Subchannels\": {\"suffix\": \"SBI Subchannels\"}}}",
+      "Computer"
+    ],
+    [
+      "Apple",
+      "I",
+      "{\"system\": \"Apple I\"}",
+      "",
+      "Computer"
+    ],
+    [
+      "Apple",
+      "II",
+      "{\"system\": \"Apple II\"}",
+      "",
+      "Computer"
+    ],
+    [
+      "Apple",
+      "II Plus",
+      "{\"system\": \"Apple II Plus\"}",
+      "",
+      "Computer"
+    ],
+    [
+      "Apple",
+      "IIe",
+      "{\"system\": \"Apple IIe\"}",
+      "",
+      "Computer"
+    ],
+    [
+      "Apple",
+      "IIGS",
+      "{\"system\": \"Apple IIGS\"}",
+      "",
+      "Computer"
+    ],
+    [
+      "Apple-Bandai",
+      "Pippin",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Arduboy Inc",
+      "Arduboy",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Atari",
+      "8-bit Family",
+      "",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\"}}",
+      "Computer"
+    ],
+    [
+      "Atari",
+      "ST",
+      "",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\"}}",
+      "Computer"
+    ],
+    [
+      "Atari",
+      "Atari ST",
+      "{\"system\": \"ST\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\"}}",
+      "Computer"
+    ],
+    [
+      "Atari",
+      "Atari Jaguar CD",
+      "{\"system\": \"Jaguar CD\"}",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Atari",
+      "Jaguar CD Interactive Multimedia System",
+      "{\"system\": \"Jaguar CD\"}",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Atari",
+      "Atari 2600",
+      "{\"system\": \"2600\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Atari",
+      "Atari 5200",
+      "{\"system\": \"5200\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Atari",
+      "Atari 7800",
+      "{\"system\": \"7800\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Atari",
+      "Atari Jaguar",
+      "{\"system\": \"Jaguar\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Atari",
+      "Atari Lynx",
+      "{\"system\": \"Lynx\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Atari",
+      "2600",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Atari",
+      "5200",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Atari",
+      "7800",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Atari",
+      "Jaguar",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Atari",
+      "Lynx",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Bally",
+      "Astrocade",
+      "",
+      "{\"empty_suffix\":{\"nointro\":\"Cartridges\"}}",
+      "Console"
+    ],
+    [
+      "Bandai",
+      "Pippin",
+      "{\"company\": \"Apple-Bandai\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Bandai",
+      "Design Master Denshi Mangajuku",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Bandai",
+      "Gundam RX-78",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Bandai",
+      "Playdia Quick Interactive System",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Bandai",
+      "WonderSwan",
+      "",
+      "",
+      "Handheld"
+    ],
+    [
+      "Bandai",
+      "WonderSwan Color",
+      "",
+      "",
+      "Handheld"
+    ],
+    [
+      "",
+      "Bandai Little Jammer",
+      "{\"company\": \"Bandai\", \"system\":\"Little Jammer\"}",
+      "",
+      "Console"
+    ],
+    [
+      "",
+      "Bandai Little Jammer Pro",
+      "{\"company\": \"Bandai\", \"system\":\"Little Jammer Pro\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Benesse",
+      "Pocket Challenge V2",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Benesse",
+      "Pocket Challenge W",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Bit Corporation",
+      "Gamate",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Capcom",
+      "Play System III",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "Casio",
+      "Loopy",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Casio",
+      "PV-1000",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Coleco",
+      "ColecoVision",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Commodore",
+      "Commodore 64",
+      "",
+      "{\"empty_suffix\":{\"nointro\":\"Cartridges\"}}",
+      "Computer"
+    ],
+    [
+      "Commodore",
+      "Amiga",
+      "",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\"}}",
+      "Computer"
+    ],
+    [
+      "Commodore",
+      "Amiga CD",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Commodore",
+      "Amiga CD32",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Commodore",
+      "Amiga CDTV",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Commodore",
+      "Plus-4",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Commodore",
+      "VIC-20",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Digital Media Cartridge",
+      "Firecore",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Emerson",
+      "Arcadia 2001",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Entex",
+      "Adventure Vision",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Epoch",
+      "Game Pocket Computer",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Epoch",
+      "Super Cassette Vision",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Fairchild",
+      "Channel F",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Fujitsu",
+      "FM Towns",
+      "{\"system\": \"FM-Towns\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
+      "Computer"
+    ],
+    [
+      "Fujitsu",
+      "FM-Towns",
+      "",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
+      "Computer"
+    ],
+    [
+      "Fujitsu",
+      "FM-7",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Fujitsu",
+      "FMR50",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Fukutake Publishing",
+      "StudyBox",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Funtech",
+      "Super Acan",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "FuRyu",
+      "Katy",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "funworld",
+      "Photo Play",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "GamePark",
+      "GP2X",
+      "",
+      "",
+      "Handheld"
+    ],
+    [
+      "GamePark",
+      "GP32",
+      "",
+      "",
+      "Handheld"
+    ],
+    [
+      "GCE",
+      "Vectrex",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Google",
+      "Android",
+      "",
+      "",
+      "Phone"
+    ],
+    [
+      "Hartung",
+      "Game Master",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Hasbro",
+      "VideoNow",
+      "{\"modifier\":\"Video\"}",
+      "",
+      "Video"
+    ],
+    [
+      "Hasbro",
+      "VideoNow Color",
+      "{\"modifier\":\"Video\"}",
+      "",
+      "Video"
+    ],
+    [
+      "Hasbro",
+      "VideoNow Jr.",
+      "{\"system\": \"VideoNow Jr\", \"modifier\":\"Video\"}",
+      "",
+      "Video"
+    ],
+    [
+      "Hasbro",
+      "VideoNow XP",
+      "{\"modifier\":\"Video\"}",
+      "",
+      "Video"
+    ],
+    [
+      "Hasbro",
+      "iON Educational Gaming System",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Hitachi",
+      "S1",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "IBM",
+      "PC compatible",
+      "{\"system\": \"PC and Compatibles\"}",
+      "{\"empty_suffix\":{\"redump\":\"Discs/Discs\"}, \"if_suffix\": {\"SBI Subchannels\": {\"suffix\": \"SBI Subchannels\"}}}",
+      "Computer"
+    ],
+    [
+      "IBM",
+      "PC and Compatibles",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "IBM",
+      "PC Compatible",
+      "{\"system\": \"PC and Compatibles\"}",
+      "",
+      "Computer"
+    ],
+    [
+      "FuRyu & Omron",
+      "Purikura",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "Web",
+      "Humble Play",
+      "{\"system\": \"PC and Compatibles\", \"company\": \"IBM\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Digital/Web/Humble Play\"}}",
+      "Computer"
+    ],
+    [
+      "Various",
+      "itch.io",
+      "{\"system\": \"PC and Compatibles\", \"company\": \"IBM\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Digital/itch.io\"}}",
+      "Computer"
+    ],
+    [
+      "Incredible Technologies",
+      "Eagle",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "Interton",
+      "VC 4000",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "iQue",
+      "iQue",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Konami",
+      "e-Amusement",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "Konami",
+      "FireBeat",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "Konami",
+      "Picno",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Konami",
+      "Python 2",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "Konami",
+      "System GV",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "LeapFrog",
+      "Explorer",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "LeapFrog",
+      "LeapPad",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "LeapFrog",
+      "Leapster Learning Game System",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Luxor",
+      "ABC 800",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Magnavox",
+      "Odyssey 2",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Mattel",
+      "Fisher-Price iXL",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Mattel",
+      "HyperScan",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Mattel",
+      "Intellivision",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Memorex",
+      "Visual Information System",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Microsoft",
+      "XBOX",
+      "{\"system\": \"Xbox\"}",
+      "{\"if_suffix\":{\"Development Kit Hard Drives\":{\"modifier\":\"Source Code\"}},\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Microsoft",
+      "Xbox",
+      "",
+      "{\"if_suffix\":{\"Development Kit Hard Drives\":{\"modifier\":\"Source Code\"}, \"BIOS Images (DoM Version)\":{\"suffix\":\"DoM Version\", \"modifier\":\"BIOS Images\"}},\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Microsoft",
+      "XBOX 360",
+      "{\"system\": \"Xbox 360\"}",
+      "{\"if_suffix\":{\"Development Kit Hard Drives\":{\"modifier\":\"Source Code\"}, \"Title Updates\":{\"suffix\":\"Title Updates\"}}, \"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Microsoft",
+      "Xbox 360",
+      "",
+      "{\"if_suffix\":{\"Development Kit Hard Drives\":{\"modifier\":\"Source Code\"}, \"Title Updates\":{\"suffix\":\"Title Updates\"}}, \"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Microsoft",
+      "MSX",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Microsoft",
+      "MSX Turbo-R",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Microsoft",
+      "MSX2",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Microsoft",
+      "Pocket PC",
+      "{\"company\": \"Microsoft\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Roms\", \"redump\": \"Discs\"}}",
+      "Mobile"
+    ],
+    [
+      "Microsoft",
+      "Xbox One",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Microsoft",
+      "Xbox Series X",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Milton-Bradley",
+      "Omni",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Mobile",
+      "Pocket PC",
+      "{\"company\": \"Microsoft\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Roms\", \"redump\": \"Discs\"}}",
+      "Mobile"
+    ],
+    [
+      "Mobile",
+      "Palm OS",
+      "{\"company\": \"Palm\", \"system\": \"Palm OS\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Roms\",\"redump\":\"Discs\"}}",
+      "Mobile"
+    ],
+    [
+      "Mobile",
+      "J2ME",
+      "",
+      "",
+      "Mobile"
+    ],
+    [
+      "Mobile",
+      "Symbian",
+      "",
+      "",
+      "Mobile"
+    ],
+    [
+      "Namco",
+      "System N2",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "Namco",
+      "Namco",
+      "{\"company\": \"Namco\", \"system\": \"System N2\"}",
+      "",
+      "Arcade"
+    ],
+    [
+      "",
+      "Namco",
+      "{\"company\": \"Namco\", \"system\": \"System N2\"}",
+      "",
+      "Arcade"
+    ],
+    [
+      "Namco",
+      "Purikura",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "Namco",
+      "System 246",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "Namco-Sega-Nintendo",
+      "Triforce",
+      "",
+      "{\"if_suffix\": {\"GDI Files\": {\"suffix\": \"GDI Files\"}}}",
+      "Arcade"
+    ],
+    [
+      "Navisoft",
+      "Naviken 2.1",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "NEC",
+      "PC-88",
+      "{\"system\": \"PC-88 series\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
+      "Computer"
+    ],
+    [
+      "NEC",
+      "PC-88 series",
+      "",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
+      "Computer"
+    ],
+    [
+      "NEC",
+      "PC-8801",
+      "{\"system\": \"PC-88 series\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
+      "Computer"
+    ],
+    [
+      "NEC",
+      "PC-98",
+      "{\"system\": \"PC-98 series\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
+      "Computer"
+    ],
+    [
+      "NEC",
+      "PC-98 series",
+      "",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
+      "Computer"
+    ],
+    [
+      "NEC",
+      "PC-9801",
+      "{\"system\": \"PC-98 series\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
+      "Computer"
+    ],
+    [
+      "NEC",
+      "PC Engine CD",
+      "{\"system\": \"PC Engine CD & TurboGrafx CD\"}",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "NEC",
+      "PC Engine CD & TurboGrafx CD",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "NEC",
+      "PC Engine CD + TurboGrafx CD",
+      "{\"system\": \"PC Engine CD & TurboGrafx CD\"}",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "NEC",
+      "PC Engine",
+      "{\"system\": \"PC Engine - TurboGrafx 16\"}",
+      "",
+      "Console"
+    ],
+    [
+      "NEC",
+      "PC Engine - TurboGrafx-16",
+      "{\"system\": \"PC Engine - TurboGrafx 16\"}",
+      "",
+      "Console"
+    ],
+    [
+      "NEC",
+      "PC Engine - TurboGrafx 16",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "NEC",
+      "PC Engine SuperGrafx",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "NEC",
+      "PC-6001",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "NEC",
+      "PC-8001",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "NEC",
+      "PC-FX",
+      "{\"system\": \"PC-FX & PC-FXGA\"}",
+      "",
+      "Console"
+    ],
+    [
+      "NEC",
+      "PC-FX & PC-FXGA",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nichibutsu",
+      "My Vision",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "",
+      "NintendoSDK Firmware for NX",
+      "{\"system\": \"NintendoSDK Firmware for NX\", \"company\": \"Nintendo\", \"modifier\": \"Source Code\"}",
+      "",
+      "Source Code"
+    ],
+    [
+      "Nintendo",
+      "SDKs",
+      "{\"modifier\": \"Source Code\"}",
+      "",
+      "Source Code"
+    ],
+    [
+      "Nintendo",
+      "GameCube",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}, \"if_suffix\": {\"BIOS Images (DoM Version)\":{\"suffix\":\"DoM Version\", \"modifier\":\"BIOS Images\"}}}",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Wii",
+      "",
+      "{\"if_suffix\":{\"Development Kit Hard Drives\":{\"modifier\":\"Source Code\"}},\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Wii U",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}, \"if_suffix\":{\"Disc Keys\":{\"suffix\":\"Disc Keys\"}}}",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Misc",
+      "{\"modifier\": \"Source Code\"}",
+      "{\"if_suffix\":{\"Manual\":{\"modifier\":\"Manuals\"},\"Wallpaper\":{\"modifier\":\"Manuals\"}}}",
+      "Source Code"
+    ],
+    [
+      "Nintendo",
+      "Game Boy Advance",
+      "",
+      "{\"if_suffix\":{\"Video\":{\"modifier\":\"Video\"}}}",
+      "Handheld"
+    ],
+    [
+      "Nintendo",
+      "amiibo",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "e-Reader",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Famicom",
+      "{\"system\": \"Nintendo Entertainment System\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Family BASIC",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Family Computer Disk System",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Family Computer Network System",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Game & Watch",
+      "",
+      "",
+      "Handheld"
+    ],
+    [
+      "Nintendo",
+      "Game Boy",
+      "",
+      "",
+      "Handheld"
+    ],
+    [
+      "Nintendo",
+      "Game Boy Color",
+      "",
+      "",
+      "Handheld"
+    ],
+    [
+      "Nintendo",
+      "GameCube - NKit RVZ [zstd-19-128k]",
+      "{\"system\": \"GameCube\", \"suffix\": \"NKit RVZ [zstd-19-128k]\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Wii - NKit RVZ [zstd-19-128k]",
+      "{\"system\": \"Wii\", \"suffix\": \"NKit RVZ [zstd-19-128k]\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Wii - NKit WBFS [lossless]",
+      "{\"system\": \"Wii\", \"suffix\": \"NKit WBFS [lossless]\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Wii U - WUX",
+      "{\"system\": \"Wii U\", \"suffix\": \"WUX\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Kiosk Video Compact Flash",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Mario no Photopi SmartMedia",
+      "{\"system\": \"Nintendo 64\", \"suffix\": \"Mario no Photopi SmartMedia\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "New Nintendo 3DS",
+      "",
+      "",
+      "Handheld"
+    ],
+    [
+      "Nintendo",
+      "Nintendo 3DS",
+      "",
+      "",
+      "Handheld"
+    ],
+    [
+      "Nintendo",
+      "Nintendo 64",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Nintendo 64DD",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Nintendo DS",
+      "",
+      "",
+      "Handheld"
+    ],
+    [
+      "Nintendo",
+      "Nintendo DSi",
+      "",
+      "",
+      "Handheld"
+    ],
+    [
+      "Nintendo",
+      "Nintendo Entertainment System",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Nintendo GameCube",
+      "{\"system\": \"GameCube\"}",
+      "{\"if_suffix\":{\"Private\":{\"suffix\":\"Private\"}}}",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Play-Yan",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Pokemon Mini",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Nintendo Switch",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Satellaview",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Sufami Turbo",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Super Famicom",
+      "{\"system\": \"Super Nintendo Entertainment System\"}",
+      "",
+      "Console"
+    ],
+    [
+      "",
+      "Super Mario Maker Courses",
+      "{\"system\": \"Wii U\", \"company\": \"Nintendo\", \"suffix\": \"Super Mario Maker Courses\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Super Nintendo Entertainment System",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Switch",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Virtual Boy",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Wallpapers",
+      "{\"modifier\":\"Manuals\"}",
+      "",
+      "Source Code"
+    ],
+    [
+      "Nintendo",
+      "Nintendo Music",
+      "{\"system\": \"Music\"}",
+      "",
+      "Audio"
+    ],
+    [
+      "No-Intro",
+      "Nintendo - Nintendo Music",
+      "{\"company\": \"Nintendo\", \"system\": \"Music\"}",
+      "",
+      "Audio"
+    ],
+    [
+      "Nokia",
+      "N-Gage",
+      "",
+      "{\"empty_suffix\":{\"nointro\":\"Roms\"}}",
+      "Handheld"
+    ],
+    [
+      "Ouya",
+      "Ouya",
+      "",
+      "",
+      "Handheld"
+    ],
+    [
+      "",
+      "Obscure Gamers",
+      "",
+      "",
+      "Source Code"
+    ],
+    [
+      "Panic",
+      "Playdate",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Palm",
+      "Palm OS",
+      "{\"company\": \"Palm\", \"system\": \"Palm OS\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Roms\"}}",
+      "Mobile"
+    ],
+    [
+      "Panasonic",
+      "3DO Interactive Multiplayer",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Panasonic",
+      "M2",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Philips",
+      "CD-i",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Philips",
+      "Videopac+",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "",
+      "Pocket PC",
+      "{\"company\": \"Microsoft\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Roms\", \"redump\": \"Discs\"}}",
+      "Mobile"
+    ],
+    [
+      "Pocket PC",
+      "Pocket PC",
+      "{\"company\": \"Microsoft\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Roms\", \"redump\": \"Discs\"}}",
+      "Mobile"
+    ],
+    [
+      "",
+      "Project EGG",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "RCA",
+      "Studio II",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Sanyo",
+      "MBC-550",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Sega",
+      "Dreamcast",
+      "",
+      "{\"if_suffix\":{\"Development Kit Hard Drives\":{\"modifier\":\"Source Code\"},\"Private\":{\"suffix\":\"Private\"}, \"GDI Files\":{\"suffix\":\"GDI Files\"}},\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Sega",
+      "Mega CD",
+      "{\"system\": \"Mega CD & Sega CD\"}",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Sega",
+      "Mega CD & Sega CD",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Sega",
+      "Saturn",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Sega",
+      "Mega CD Hacks",
+      "{\"system\": \"Mega CD & Sega CD\", \"suffix\": \"Hacks\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Sega",
+      "Sega Mega CD + Sega CD",
+      "{\"system\": \"Mega CD & Sega CD\"}",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Sega",
+      "Sega Saturn",
+      "{\"system\": \"Saturn\"}",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Sega",
+      "32X",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Sega",
+      "Alls",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "ALLS",
+      "{\"system\": \"Alls\"}",
+      "",
+      "Arcade"
+    ],
+    [
+      "",
+      "Sega ALLS",
+      "{\"company\": \"Sega\" ,\"system\": \"Alls\", \"suffix\": \"DataCollective\"}",
+      "{\"empty_suffix\":{\"teknoparrot\":\"DataCollective\"}}",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "Sega ALLS",
+      "{\"company\": \"Sega\" ,\"system\": \"Alls\", \"suffix\": \"DataCollective\"}",
+      "{\"empty_suffix\":{\"teknoparrot\":\"DataCollective\"}}",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "Alls",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "Beena",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Sega",
+      "Chihiro",
+      "",
+      "{\"if_suffix\": {\"GDI Files\": {\"suffix\": \"GDI Files\"}}}",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "Game Gear",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Sega",
+      "Lindbergh",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Arcade"
+    ],
+    [
+      "",
+      "Sega Lindbergh",
+      "{\"company\": \"Sega\" ,\"system\": \"Lindbergh\", \"suffix\": \"DataCollective\"}",
+      "",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "Sega Lindbergh",
+      "{\"company\": \"Sega\" ,\"system\": \"Lindbergh\", \"suffix\": \"DataCollective\"}",
+      "",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "Nu SX",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "",
+      "Sega NAOMI Satellite Terminal PC",
+      "{\"company\": \"Sega\" ,\"system\": \"Naomi Satellite Terminal PC\"}",
+      "",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "Nu 2",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "Nu 1.1",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "Nu",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "",
+      "Sega Nu",
+      "{\"company\": \"Sega\" ,\"system\": \"Nu\", \"suffix\": \"DataCollective\"}",
+      "",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "Sega Nu",
+      "{\"company\": \"Sega\" ,\"system\": \"Nu\", \"suffix\": \"DataCollective\"}",
+      "",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "Elefun",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "",
+      "Sega Elefun",
+      "{\"company\": \"Sega\" ,\"system\": \"Elefun\"}",
+      "",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "Sega Elefun",
+      "{\"company\": \"Sega\" ,\"system\": \"Elefun\"}",
+      "",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "Master System",
+      "{\"system\": \"Master System - Mark III\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Sega",
+      "Master System - Mark III",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Sega",
+      "Mega Drive",
+      "{\"system\": \"Mega Drive - Genesis\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Sega",
+      "Mega Drive - Genesis",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Sega",
+      "Naomi",
+      "",
+      "{\"if_suffix\": {\"GDI Files\": {\"suffix\": \"GDI Files\"}}}",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "Naomi 2",
+      "",
+      "{\"if_suffix\": {\"GDI Files\": {\"suffix\": \"GDI Files\"}}}",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "PICO",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Sega",
+      "Prologue 21",
+      "",
+      "",
+      "Video"
+    ],
+    [
+      "Sega",
+      "RingEdge",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "RingEdge 2",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "",
+      "Sega RingEdge-Wide",
+      "{\"company\": \"Sega\" ,\"system\": \"RingEdge-Wide\"}",
+      "",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "Sega RingEdge-Wide",
+      "{\"company\": \"Sega\" ,\"system\": \"RingEdge-Wide\"}",
+      "",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "RingEdge-Wide",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "SG-1000",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Seta",
+      "Aleck64",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "Sharp",
+      "X68000",
+      "",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
+      "Computer"
+    ],
+    [
+      "Sharp",
+      "MZ-2200",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Sharp",
+      "MZ-700",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Sharp",
+      "X1",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Sharp",
+      "Zaurus",
+      "",
+      "",
+      "Mobile"
+    ],
+    [
+      "Sinclair",
+      "ZX Spectrum +3",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "SNK",
+      "Neo Geo CD",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "SNK",
+      "Neo Geo Pocket",
+      "",
+      "",
+      "Handheld"
+    ],
+    [
+      "SNK",
+      "Neo Geo Pocket Color",
+      "",
+      "",
+      "Handheld"
+    ],
+    [
+      "SNK",
+      "NeoGeo Pocket",
+      "{\"system\": \"Neo Geo Pocket\"}",
+      "",
+      "Handheld"
+    ],
+    [
+      "SNK",
+      "NeoGeo Pocket Color",
+      "{\"system\": \"Neo Geo Pocket Color\"}",
+      "",
+      "Handheld"
+    ],
+    [
+      "Sony",
+      "PlayStation",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}, \"if_suffix\": {\"SBI Subchannels\": {\"suffix\": \"SBI Subchannels\"}, \"BIOS Images (DoM Version)\":{\"suffix\":\"DoM Version\", \"modifier\":\"BIOS Images\"}}}",
+      "Console"
+    ],
+    [
+      "Sony",
+      "PlayStation 2",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}, \"if_suffix\": {\"BIOS Images (DoM Version)\":{\"suffix\":\"DoM Version\", \"modifier\":\"BIOS Images\"}}}",
+      "Console"
+    ],
+    [
+      "Sony",
+      "PlayStation 3",
+      "",
+      "{\"if_suffix\":{\"Development Kit Hard Drives\":{\"modifier\":\"Source Code\"}, \"Disc Keys\":{\"suffix\":\"Disc Keys\"}, \"Disc Keys TXT\":{\"suffix\":\"Disc Keys TXT\"}},\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Sony",
+      "PlayStation 4",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Sony",
+      "PlayStation 5",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Sony",
+      "PlayStation Portable",
+      "",
+      "{\"if_suffix\":{\"UMD Music\":{\"modifier\":\"Audio\"},\"UMD Video\":{\"modifier\":\"Video\"}},\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Sony",
+      "PlayStation Mobile",
+      "",
+      "",
+      "Mobile"
+    ],
+    [
+      "Sony",
+      "PlayStation Vita",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "TAB-Austria",
+      "Quizard",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "",
+      "TeknoParrot",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "",
+      "TeknoParrot Collection",
+      "{\"system\": \"TeknoParrot\"}",
+      "",
+      "Arcade"
+    ],
+    [
+      "Tangerine Computer Systems",
+      "Oric",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "TeleNova",
+      "Compis",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Texas Instruments",
+      "TI-99-4A",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Tiger",
+      "Game.com",
+      "",
+      "",
+      "Handheld"
+    ],
+    [
+      "Tiger",
+      "Gizmondo",
+      "{\"system_type\": \"Handheld\"}",
+      "",
+      "Handheld"
+    ],
+    [
+      "Tomy",
+      "Kiss-Site",
+      "",
+      "",
+      "Video"
+    ],
+    [
+      "Toshiba",
+      "Pasopia",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Toshiba",
+      "Visicom",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "VM Labs",
+      "NUON",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Non-Redump",
+      "VM Labs - NUON",
+      "{\"company\": \"VM Labs\", \"system\": \"NUON\", \"suffix\":\"ExtraDiscs\"}",
+      "",
+      "Console"
+    ],
+    [
+      "VTech",
+      "CreatiVision",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "VTech",
+      "Mobigo",
+      "",
+      "",
+      "Handheld"
+    ],
+    [
+      "VTech",
+      "V.Flash & V.Smile Pro",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "VTech",
+      "V.Smile",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Watara",
+      "Supervision",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Welback",
+      "Mega Duck",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "Yamaha",
+      "Copera",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "ZAPiT Games",
+      "Game Wave Family Entertainment System",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Zeebo",
+      "Zeebo",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "",
+      "Pocket PC",
+      "{\"company\": \"Microsoft\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Roms\", \"redump\": \"Discs\"}}",
+      "Mobile"
+    ],
+    [
+      "",
+      "Palm",
+      "{\"company\": \"Palm\", \"system\": \"Palm OS\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Roms\",\"redump\":\"Discs\"}}",
+      "Mobile"
+    ],
+    [
+      "Non-Game",
+      "Miscellaneous - Stand-Up Comedy",
+      "",
+      "{\"if_suffix\":{\"Audio CD\":{\"modifier\":\"Audio\"}}}",
+      "Video"
+    ],
+    [
+      "Non-Game",
+      "Miscellaneous - Instructional",
+      "",
+      "{\"if_suffix\":{\"Audio CD\":{\"modifier\":\"Audio\"}}}",
+      "Video"
+    ],
+    [
+      "Non-Game",
+      "Audio CD",
+      "",
+      "",
+      "Audio"
+    ],
+    [
+      "Audio CD",
+      "Spillover Tracks",
+      "{\"company\": null, \"system\": \"Audio CD\", \"suffix\":\"Spillover Tracks\"}",
+      "",
+      "Audio"
+    ],
+    [
+      "",
+      "Audio CD",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Audio"
+    ],
+    [
+      "",
+      "BD-Video",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Video"
+    ],
+    [
+      "",
+      "DVD-Video",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Video"
+    ],
+    [
+      "",
+      "Photo CD",
+      "",
+      "",
+      "Video"
+    ],
+    [
+      "",
+      "PlayStation GameShark Updates",
+      "{\"company\": \"Sony\", \"system\": \"PlayStation\", \"suffix\": \"GameShark Updates\"}",
+      "",
+      "Console"
+    ],
+    [
+      "",
+      "Sony Electronic Book",
+      "",
+      "",
+      "Book"
+    ],
+    [
+      "",
+      "Super Audio CD",
+      "",
+      "",
+      "Audio"
+    ],
+    [
+      "",
+      "Various",
+      "",
+      "",
+      "Source Code"
+    ],
+    [
+      "",
+      "Video CD",
+      "",
+      "",
+      "Video"
+    ],
+    [
+      "",
+      "Video Game Scans",
+      "",
+      "",
+      "Manuals"
+    ],
+    [
+      "",
+      "Video Game Documents",
+      "",
+      "",
+      "Manuals"
+    ],
+    [
+      "",
+      "Video Game Magazine Scans",
+      "",
+      "",
+      "Manuals"
+    ],
+    [
+      "Tao",
+      "iKTV",
+      "",
+      "",
+      "Video"
+    ],
+    [
+      "Acorn RISC OS",
+      "Flash Media",
+      "{\"company\": \"Acorn\", \"system\": \"Risc PC\", \"suffix\": \"Flash Media\"}",
+      "",
+      "Computer"
+    ],
+    [
+      "",
+      "Future Pinball",
+      "",
+      "",
+      "Pinball"
+    ],
+    [
+      "",
+      "Visual Pinball",
+      "",
+      "",
+      "Pinball"
+    ],
+    [
+      "",
+      "VPinMAME",
+      "",
+      "",
+      "Pinball"
+    ],
+    [
+      "",
+      "Video Game OSTs",
+      "",
+      "",
+      "Audio"
+    ],
+    [
+      "",
+      "Video Game Digital OSTs",
+      "",
+      "",
+      "Audio"
+    ],
+    [
+      "",
+      "Video Game Manual Scans",
+      "",
+      "",
+      "Manuals"
+    ]
+  ]
+}
