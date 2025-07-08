@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1107",
+  "range": "Systems!A1:E1108",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -316,6 +316,13 @@
       "",
       "",
       "Console"
+    ],
+    [
+      "Blaze Entertainment",
+      "Evercade",
+      "",
+      "",
+      "Arcade"
     ],
     [
       "Capcom",
