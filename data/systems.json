@@ -1132,14 +1132,14 @@
     [
       "Nintendo",
       "GameCube - NKit RVZ [zstd-19-128k]",
-      "{\"system\": \"GameCube\", \"suffix\": \"NKit RVZ [zstd-19-128k]\"}",
+      "{\"system\": \"GameCube\", \"suffix\": \"NKit RVZ\"}",
       "",
       "Console"
     ],
     [
       "Nintendo",
       "Wii - NKit RVZ [zstd-19-128k]",
-      "{\"system\": \"Wii\", \"suffix\": \"NKit RVZ [zstd-19-128k]\"}",
+      "{\"system\": \"Wii\", \"suffix\": \"NKit RVZ\"}",
       "",
       "Console"
     ],
