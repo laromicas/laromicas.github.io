@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1108",
+  "range": "Systems!A1:E1109",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -2063,6 +2063,13 @@
     [
       "",
       "BD-Video",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Video"
+    ],
+    [
+      "",
+      "HD DVD-Video",
       "",
       "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
       "Video"
