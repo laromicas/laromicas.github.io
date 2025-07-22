@@ -831,14 +831,14 @@
     [
       "Mobile",
       "J2ME",
-      "",
+      "{\"company\": \"Sun\"}",
       "",
       "Mobile"
     ],
     [
       "Mobile",
       "Symbian",
-      "",
+      "{\"company\": \"Symbian\"}",
       "",
       "Mobile"
     ],
