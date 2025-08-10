@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1109",
+  "range": "Systems!A1:E1110",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -1939,6 +1939,13 @@
       "NUON",
       "",
       "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Non-Redump",
+      "Commodore - Amiga CD",
+      "{\"company\": \"Commodore\", \"system\": \"Amiga CD\", \"suffix\":\"ExtraDiscs\"}",
+      "",
       "Console"
     ],
     [
