@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1110",
+  "range": "Systems!A1:E1112",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -1389,6 +1389,13 @@
       "Mobile"
     ],
     [
+      "Playmaji",
+      "Polymega",
+      "",
+      "",
+      "Console"
+    ],
+    [
       "Pocket PC",
       "Pocket PC",
       "{\"company\": \"Microsoft\"}",
@@ -1712,8 +1719,15 @@
     ],
     [
       "Sega",
-      "SG-1000",
+      "SG-1000 - SC-3000",
       "",
+      "",
+      "Console"
+    ],
+    [
+      "Sega",
+      "SG-1000",
+      "{\"system\": \"SG-1000 - SC-3000\"}",
       "",
       "Console"
     ],
