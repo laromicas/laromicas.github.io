@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1112",
+  "range": "Systems!A1:E1113",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -638,6 +638,13 @@
       "",
       "",
       "Console"
+    ],
+    [
+      "Konami",
+      "M2",
+      "",
+      "",
+      "Arcade"
     ],
     [
       "Konami",
