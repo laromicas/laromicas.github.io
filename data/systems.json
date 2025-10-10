@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1138",
+  "range": "Systems!A1:E1136",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -117,13 +117,6 @@
     [
       "Apple",
       "II",
-      "{\"system\": \"Apple II\"}",
-      "",
-      "Computer"
-    ],
-    [
-      "Apple II",
-      "",
       "{\"system\": \"Apple II\"}",
       "",
       "Computer"
@@ -470,13 +463,6 @@
       "",
       "",
       "Console"
-    ],
-    [
-      "Elektor TV Games Computer",
-      "",
-      "{\"company\": \"Elektor\", \"system\": \"TV Games Computer\"}",
-      "",
-      "Computer"
     ],
     [
       "",
