@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1136",
+  "range": "Systems!A1:E1140",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -846,6 +846,34 @@
       "Microsoft",
       "MSX",
       "",
+      "",
+      "Computer"
+    ],
+    [
+      "Microsoft",
+      "MSX - CAS",
+      "{\"system\": \"MSX\", \"suffix\": \"CAS\"}",
+      "",
+      "Computer"
+    ],
+    [
+      "Microsoft",
+      "MSX - DSK",
+      "{\"system\": \"MSX\", \"suffix\": \"DSK\"}",
+      "",
+      "Computer"
+    ],
+    [
+      "Microsoft",
+      "MSX - ROM",
+      "{\"system\": \"MSX\", \"suffix\": \"ROM\"}",
+      "",
+      "Computer"
+    ],
+    [
+      "Microsoft",
+      "MSX - TAP",
+      "{\"system\": \"MSX\", \"suffix\": \"TAP\"}",
       "",
       "Computer"
     ],
