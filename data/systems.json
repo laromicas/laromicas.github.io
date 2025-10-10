@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1140",
+  "range": "Systems!A1:E1141",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -124,7 +124,7 @@
     [
       "",
       "Apple II",
-      "{\"system\": \"Apple II\"}",
+      "{\"system\": \"Apple II\", \"company\": \"Apple\"}",
       "",
       "Computer"
     ],
@@ -1064,6 +1064,13 @@
       "PC Engine CD & TurboGrafx CD",
       "",
       "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "NEC",
+      "PC Engine CD - TurboGrafx-CD",
+      "{\"system\": \"PC Engine CD & TurboGrafx CD\"}",
+      "",
       "Console"
     ],
     [
@@ -2416,6 +2423,20 @@
       "",
       "",
       "Manuals"
+    ],
+    [
+      "",
+      "WASM-4",
+      "",
+      "",
+      "Web"
+    ],
+    [
+      "",
+      "Uzebox",
+      "",
+      "",
+      "Console"
     ]
   ]
 }
