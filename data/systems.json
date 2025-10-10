@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1113",
+  "range": "Systems!A1:E1138",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -41,6 +41,34 @@
       "Amstrad",
       "CPC",
       "",
+      "",
+      "Computer"
+    ],
+    [
+      "Amstrad",
+      "CPC (CDT)",
+      "{\"system\": \"CPC\", \"suffix\": \"CDT\"}",
+      "",
+      "Computer"
+    ],
+    [
+      "Amstrad",
+      "CPC (CPR)",
+      "{\"system\": \"CPC\", \"suffix\": \"CPR\"}",
+      "",
+      "Computer"
+    ],
+    [
+      "Amstrad",
+      "CPC (DSK)",
+      "{\"system\": \"CPC\", \"suffix\": \"DSK\"}",
+      "",
+      "Computer"
+    ],
+    [
+      "Amstrad",
+      "CPC (SNA)",
+      "{\"system\": \"CPC\", \"suffix\": \"SNA\"}",
       "",
       "Computer"
     ],
@@ -94,6 +122,20 @@
       "Computer"
     ],
     [
+      "Apple II",
+      "",
+      "{\"system\": \"Apple II\"}",
+      "",
+      "Computer"
+    ],
+    [
+      "",
+      "Apple II",
+      "{\"system\": \"Apple II\"}",
+      "",
+      "Computer"
+    ],
+    [
       "Apple",
       "II Plus",
       "{\"system\": \"Apple II Plus\"}",
@@ -129,6 +171,20 @@
       "Console"
     ],
     [
+      "Arduboy Inc.",
+      "Arduboy",
+      "{\"company\": \"Arduboy Inc\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Arduboy Inc.",
+      "Arduboy FX",
+      "{\"company\": \"Arduboy Inc\"}",
+      "",
+      "Console"
+    ],
+    [
       "Atari",
       "8-bit Family",
       "",
@@ -148,6 +204,13 @@
       "{\"system\": \"ST\"}",
       "{\"empty_suffix\":{\"nointro\":\"Floppies\"}}",
       "Computer"
+    ],
+    [
+      "Atari",
+      "Jaguar CD",
+      "{\"system\": \"Jaguar CD\"}",
+      "",
+      "Console"
     ],
     [
       "Atari",
@@ -407,6 +470,20 @@
       "",
       "",
       "Console"
+    ],
+    [
+      "Elektor TV Games Computer",
+      "",
+      "{\"company\": \"Elektor\", \"system\": \"TV Games Computer\"}",
+      "",
+      "Computer"
+    ],
+    [
+      "",
+      "Elektor TV Games Computer",
+      "{\"company\": \"Elektor\", \"system\": \"TV Games Computer\"}",
+      "",
+      "Computer"
     ],
     [
       "Emerson",
@@ -717,6 +794,13 @@
       "Console"
     ],
     [
+      "Magnavox",
+      "Odyssey2",
+      "{\"system\": \"Odyssey 2\"}",
+      "",
+      "Console"
+    ],
+    [
       "Mattel",
       "Fisher-Price iXL",
       "",
@@ -917,6 +1001,20 @@
       "PC-8801",
       "{\"system\": \"PC-88 series\"}",
       "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
+      "Computer"
+    ],
+    [
+      "NEC",
+      "PC-8801 - D88",
+      "{\"system\": \"PC-88 series\", \"suffix\": \"D88\"}",
+      "",
+      "Computer"
+    ],
+    [
+      "NEC",
+      "PC-8801 - T88",
+      "{\"system\": \"PC-88 series\", \"suffix\": \"T88\"}",
+      "",
       "Computer"
     ],
     [
@@ -1277,6 +1375,34 @@
       "Console"
     ],
     [
+      "Nintendo",
+      "Famicom - NES",
+      "{\"system\": \"Nintendo Entertainment System\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Famicom - NES (UNF)",
+      "{\"system\": \"Nintendo Entertainment System\", \"suffix\": \"UNF\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Super Famicom - SNES",
+      "{\"system\": \"Super Nintendo Entertainment System\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Super Famicom - SNES - MSU-1",
+      "{\"system\": \"Super Nintendo Entertainment System\", \"suffix\": \"MSU-1\"}",
+      "",
+      "Console"
+    ],
+    [
       "",
       "Super Mario Maker Courses",
       "{\"system\": \"Wii U\", \"company\": \"Nintendo\", \"suffix\": \"Super Mario Maker Courses\"}",
@@ -1439,6 +1565,27 @@
     ],
     [
       "Sega",
+      "Dreamcast - BIN-CUE",
+      "{\"system\": \"Dreamcast\", \"suffix\": \"BIN-CUE\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Sega",
+      "Dreamcast - GDI",
+      "{\"system\": \"Dreamcast\", \"suffix\": \"GDI\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Sega",
+      "Dreamcast - NRG",
+      "{\"system\": \"Dreamcast\", \"suffix\": \"NRG\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Sega",
       "Mega CD",
       "{\"system\": \"Mega CD & Sega CD\"}",
       "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
@@ -1449,6 +1596,13 @@
       "Mega CD & Sega CD",
       "",
       "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Sega",
+      "Sega CD",
+      "{\"system\": \"Mega CD & Sega CD\"}",
+      "",
       "Console"
     ],
     [
@@ -1601,14 +1755,14 @@
     [
       "",
       "Sega Nu",
-      "{\"company\": \"Sega\" ,\"system\": \"Nu\", \"suffix\": \"DataCollective\"}",
+      "{\"company\": \"Sega\", \"system\": \"Nu\", \"suffix\": \"DataCollective\"}",
       "",
       "Arcade"
     ],
     [
       "Sega",
       "Sega Nu",
-      "{\"company\": \"Sega\" ,\"system\": \"Nu\", \"suffix\": \"DataCollective\"}",
+      "{\"company\": \"Sega\", \"system\": \"Nu\", \"suffix\": \"DataCollective\"}",
       "",
       "Arcade"
     ],
@@ -1862,6 +2016,27 @@
       "PlayStation Portable",
       "",
       "{\"if_suffix\":{\"UMD Music\":{\"modifier\":\"Audio\"},\"UMD Video\":{\"modifier\":\"Video\"}},\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
+      "Sony",
+      "PlayStation Portable (EBOOT)",
+      "{\"system\": \"PlayStation Portable\", \"suffix\": \"EBOOT\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Sony",
+      "PlayStation Portable (ISO)",
+      "{\"system\": \"PlayStation Portable\", \"suffix\": \"ISO\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Sony",
+      "PlayStation Portable (TBD)",
+      "{\"system\": \"PlayStation Portable\", \"suffix\": \"TBD\"}",
+      "",
       "Console"
     ],
     [
