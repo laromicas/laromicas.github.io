@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1142",
+  "range": "Systems!A1:E1143",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -813,6 +813,13 @@
       "",
       "",
       "Console"
+    ],
+    [
+      "Microsoft",
+      "DOS",
+      "{\"system\": \"PC and Compatibles\", \"company\": \"IBM\", \"suffix\": \"DOS\"}",
+      "",
+      "Computer"
     ],
     [
       "Microsoft",
