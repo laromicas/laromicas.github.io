@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1143",
+  "range": "Systems!A1:E1144",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -2064,6 +2064,13 @@
       "Sony",
       "PlayStation Portable (TBD)",
       "{\"system\": \"PlayStation Portable\", \"suffix\": \"TBD\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Sony",
+      "PlayStation Portable (CSO)",
+      "{\"system\": \"PlayStation Portable\", \"suffix\": \"CSO\"}",
       "",
       "Console"
     ],
