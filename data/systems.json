@@ -1972,7 +1972,7 @@
     [
       "Sinclair",
       "ZX Spectrum +3",
-      "",
+      "{\"system\": \"ZX Spectrum\"}",
       "",
       "Computer"
     ],
