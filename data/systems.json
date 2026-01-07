@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1144",
+  "range": "Systems!A1:E1145",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -1964,10 +1964,17 @@
     ],
     [
       "Sinclair",
+      "ZX Spectrum",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Sinclair",
       "ZX Spectrum +3",
       "",
       "",
-      "Console"
+      "Computer"
     ],
     [
       "SNK",
