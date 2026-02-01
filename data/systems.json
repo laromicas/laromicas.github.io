@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1145",
+  "range": "Systems!A1:E1147",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -1280,6 +1280,20 @@
       "Nintendo",
       "Wii - NKit WBFS [lossless]",
       "{\"system\": \"Wii\", \"suffix\": \"NKit WBFS [lossless]\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Wii - ISO",
+      "{\"system\": \"Wii\", \"suffix\": \"ISO\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Wii - WBFS",
+      "{\"system\": \"Wii\", \"suffix\": \"WBFS\"}",
       "",
       "Console"
     ],
