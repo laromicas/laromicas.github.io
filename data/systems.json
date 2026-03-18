@@ -1182,7 +1182,7 @@
       "Nintendo",
       "Wii U",
       "",
-      "{\"empty_suffix\":{\"redump\":\"Discs\"}, \"if_suffix\":{\"Disc Keys\":{\"suffix\":\"Disc Keys\"}}}",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}, \"if_suffix\":{\"Disc Keys\":{\"suffix\":\"Disc Keys\"}, \"Development Kit Hard Drives\":{\"modifier\":\"Source Code\"}}}",
       "Console"
     ],
     [
