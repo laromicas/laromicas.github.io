@@ -160,14 +160,14 @@
       "Apple",
       "Pippin",
       "{\"company\": \"Apple-Bandai\"}",
-      "",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
       "Console"
     ],
     [
       "Apple-Bandai",
       "Pippin",
       "",
-      "",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
       "Console"
     ],
     [
