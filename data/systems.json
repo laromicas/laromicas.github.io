@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1149",
+  "range": "Systems!A1:E1158",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -14,6 +14,13 @@
       "Archimedes",
       "",
       "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
+      "Computer"
+    ],
+    [
+      "Acorn",
+      "Archimedes & Risc PC",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
       "Computer"
     ],
     [
@@ -148,6 +155,13 @@
       "{\"system\": \"Apple IIGS\"}",
       "",
       "Computer"
+    ],
+    [
+      "Apple",
+      "Pippin",
+      "{\"company\": \"Apple-Bandai\"}",
+      "",
+      "Console"
     ],
     [
       "Apple-Bandai",
@@ -458,6 +472,13 @@
       "Computer"
     ],
     [
+      "Datel",
+      "PlayStation Cheat Device Updates",
+      "{\"company\": \"Sony\", \"system\": \"PlayStation\"}",
+      "{\"empty_suffix\":{\"redump\":\"Datel - PlayStation Cheat Device Updates\"}}",
+      "Console"
+    ],
+    [
       "Digital Media Cartridge",
       "Firecore",
       "",
@@ -470,6 +491,13 @@
       "{\"company\": \"Elektor\", \"system\": \"TV Games Computer\"}",
       "",
       "Computer"
+    ],
+    [
+      "Enhanced CD",
+      "Enhanced CD",
+      "{\"company\": \"RCA\"}",
+      "",
+      "Video"
     ],
     [
       "Emerson",
@@ -517,6 +545,13 @@
       "Fujitsu",
       "FM-Towns",
       "",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
+      "Computer"
+    ],
+    [
+      "Fujitsu",
+      "FM Towns series",
+      "{\"system\": \"FM-Towns\"}",
       "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
       "Computer"
     ],
@@ -999,6 +1034,13 @@
     [
       "Navisoft",
       "Naviken 2.1",
+      "",
+      "",
+      "Computer"
+    ],
+    [
+      "Navisoft",
+      "Naviken",
       "",
       "",
       "Computer"
@@ -1536,6 +1578,20 @@
       "Mobile"
     ],
     [
+      "",
+      "Palm OS",
+      "{\"company\": \"Palm\", \"system\": \"Palm OS\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Roms\"}}",
+      "Mobile"
+    ],
+    [
+      "",
+      "3DO Interactive Multiplayer",
+      "{\"company\": \"Panasonic\"}",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
       "Panasonic",
       "3DO Interactive Multiplayer",
       "",
@@ -1895,6 +1951,13 @@
     [
       "Sega",
       "Prologue 21",
+      "",
+      "",
+      "Video"
+    ],
+    [
+      "Sega",
+      "Prologue 21 Multimedia Karaoke System",
       "",
       "",
       "Video"
