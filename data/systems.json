@@ -1574,14 +1574,14 @@
       "Palm",
       "Palm OS",
       "{\"company\": \"Palm\", \"system\": \"Palm OS\"}",
-      "{\"empty_suffix\":{\"nointro\":\"Roms\"}}",
+      "{\"empty_suffix\":{\"nointro\":\"Roms\",\"redump\":\"Discs\"}}",
       "Mobile"
     ],
     [
       "",
       "Palm OS",
       "{\"company\": \"Palm\", \"system\": \"Palm OS\"}",
-      "{\"empty_suffix\":{\"nointro\":\"Roms\"}}",
+      "{\"empty_suffix\":{\"nointro\":\"Roms\",\"redump\":\"Discs\"}}",
       "Mobile"
     ],
     [
