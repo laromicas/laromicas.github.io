@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1159",
+  "range": "Systems!A1:E1162",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -2448,6 +2448,13 @@
     [
       "",
       "Sony Electronic Book",
+      "{\"company\": \"Sony\", \"system\": \"Electronic Book\"}",
+      "",
+      "Book"
+    ],
+    [
+      "Sony",
+      "Electronic Book",
       "",
       "",
       "Book"
@@ -2556,6 +2563,20 @@
       "",
       "",
       "Web"
+    ],
+    [
+      "",
+      "MP3 CD",
+      "",
+      "",
+      "Audio"
+    ],
+    [
+      "",
+      "MP3 Audio Disc",
+      "",
+      "",
+      "Audio"
     ],
     [
       "",
