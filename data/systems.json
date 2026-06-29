@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1164",
+  "range": "Systems!A1:E1166",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -82,7 +82,14 @@
     [
       "",
       "Merit Megatouch",
-      "{\"company\": \"Merit\", \"system\": \"Megatouch\"}",
+      "{\"company\": \"Merit Industries\", \"system\": \"Megatouch ION\"}",
+      "",
+      "Arcade"
+    ],
+    [
+      "Merit Industries",
+      "Megatouch ION",
+      "",
       "",
       "Arcade"
     ],
@@ -2000,22 +2007,29 @@
     [
       "",
       "Sega RingEdge-Wide",
-      "{\"company\": \"Sega\" ,\"system\": \"RingEdge-Wide\"}",
-      "",
+      "{\"company\": \"Sega\" ,\"system\": \"RingWide\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
       "Arcade"
     ],
     [
       "Sega",
       "Sega RingEdge-Wide",
-      "{\"company\": \"Sega\" ,\"system\": \"RingEdge-Wide\"}",
-      "",
+      "{\"system\": \"RingWide\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
       "Arcade"
     ],
     [
       "Sega",
       "RingEdge-Wide",
+      "{\"system\": \"RingWide\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "RingWide",
       "",
-      "",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
       "Arcade"
     ],
     [
