@@ -1882,28 +1882,28 @@
       "Sega",
       "Nu 1.1",
       "",
-      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
       "Arcade"
     ],
     [
       "Sega",
       "Nu",
       "",
-      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
       "Arcade"
     ],
     [
       "",
       "Sega Nu",
       "{\"company\": \"Sega\", \"system\": \"Nu\", \"suffix\": \"DataCollective\"}",
-      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
       "Arcade"
     ],
     [
       "Sega",
       "Sega Nu",
       "{\"company\": \"Sega\", \"system\": \"Nu\", \"suffix\": \"DataCollective\"}",
-      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
       "Arcade"
     ],
     [
