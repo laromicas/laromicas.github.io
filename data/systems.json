@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1166",
+  "range": "Systems!A1:E1168",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -217,6 +217,13 @@
       "Atari ST",
       "{\"system\": \"ST\"}",
       "{\"empty_suffix\":{\"nointro\":\"Floppies\"}}",
+      "Computer"
+    ],
+    [
+      "Atari",
+      "ST Series",
+      "{\"system\": \"ST\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
       "Computer"
     ],
     [
@@ -2220,6 +2227,13 @@
       "",
       "",
       "Console"
+    ],
+    [
+      "Sun Microsystems",
+      "Ultra",
+      "",
+      "",
+      "Computer"
     ],
     [
       "TAB-Austria",
