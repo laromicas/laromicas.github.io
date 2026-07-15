@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1168",
+  "range": "Systems!A1:E1170",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -222,6 +222,13 @@
     [
       "Atari",
       "ST Series",
+      "{\"system\": \"ST\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
+      "Computer"
+    ],
+    [
+      "Atari",
+      "ST series",
       "{\"system\": \"ST\"}",
       "{\"empty_suffix\":{\"nointro\":\"Floppies\",\"redump\":\"Discs\"}}",
       "Computer"
@@ -1974,6 +1981,13 @@
       "Naomi 2",
       "",
       "{\"if_suffix\": {\"GDI Files\": {\"suffix\": \"GDI Files\"}}}",
+      "Arcade"
+    ],
+    [
+      "Sega",
+      "Naomi Satellite Terminal PC",
+      "",
+      "",
       "Arcade"
     ],
     [
