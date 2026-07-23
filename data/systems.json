@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1170",
+  "range": "Systems!A1:E1171",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -2073,6 +2073,13 @@
       "",
       "",
       "Arcade"
+    ],
+    [
+      "SGI",
+      "Indigo series",
+      "",
+      "",
+      "Computer"
     ],
     [
       "Sharp",
