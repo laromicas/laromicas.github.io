@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1171",
+  "range": "Systems!A1:E1174",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -1348,8 +1348,29 @@
     ],
     [
       "Nintendo",
+      "GameCube - NKit ISO",
+      "{\"system\": \"GameCube\", \"suffix\": \"NKit ISO\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "GameCube - RVZ",
+      "{\"system\": \"GameCube\", \"suffix\": \"RVZ\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
       "Wii - NKit RVZ [zstd-19-128k]",
       "{\"system\": \"Wii\", \"suffix\": \"NKit RVZ\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Nintendo",
+      "Wii - RVZ",
+      "{\"system\": \"Wii\", \"suffix\": \"RVZ\"}",
       "",
       "Console"
     ],
