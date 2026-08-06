@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1174",
+  "range": "Systems!A1:E1176",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -113,6 +113,13 @@
       "",
       "",
       "Console"
+    ],
+    [
+      "Apple",
+      "Newton",
+      "",
+      "",
+      "Mobile"
     ],
     [
       "Apple",
@@ -1011,9 +1018,16 @@
       "Mobile"
     ],
     [
+      "",
+      "Symbian",
+      "{\"company\": \"Nokia\"}",
+      "",
+      "Mobile"
+    ],
+    [
       "Mobile",
       "Symbian",
-      "{\"company\": \"Symbian\"}",
+      "{\"company\": \"Nokia\"}",
       "",
       "Mobile"
     ],
