@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1176",
+  "range": "Systems!A1:E1178",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -2376,6 +2376,13 @@
       "Console"
     ],
     [
+      "VM Labs",
+      "Nuon",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Console"
+    ],
+    [
       "Non-Redump",
       "Commodore - Amiga CD",
       "{\"company\": \"Commodore\", \"system\": \"Amiga CD\", \"suffix\":\"ExtraDiscs\"}",
@@ -2682,6 +2689,69 @@
       "",
       "",
       "Console"
+    ],
+    [
+      "Handheld",
+      "Cybiko",
+      "",
+      "",
+      "PDA"
+    ],
+    [
+      "Handheld",
+      "Palm OS",
+      "{\"company\": \"Palm\", \"system\": \"Palm OS\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Roms\",\"redump\":\"Discs\"}}",
+      "PDA"
+    ],
+    [
+      "Handheld",
+      "Psion",
+      "{\"company\": \"Psion\"}",
+      "",
+      "PDA"
+    ],
+    [
+      "Handheld",
+      "Symbian",
+      "{\"company\": \"Nokia\"}",
+      "",
+      "Mobile"
+    ],
+    [
+      "Handheld-Apple",
+      "Newton",
+      "{\"company\": \"Apple\"}",
+      "",
+      "Mobile"
+    ],
+    [
+      "Handheld-Mattel",
+      "Fisher-Price iXL",
+      "{\"company\": \"Mattel\"}",
+      "",
+      "Console"
+    ],
+    [
+      "Handheld-Microsoft",
+      "Pocket PC",
+      "{\"company\": \"Microsoft\"}",
+      "{\"empty_suffix\":{\"nointro\":\"Roms\", \"redump\": \"Discs\"}}",
+      "Mobile"
+    ],
+    [
+      "Handheld-Sharp",
+      "Zaurus",
+      "{\"company\": \"Sharp\"}",
+      "",
+      "Mobile"
+    ],
+    [
+      "Handheld-Texas Instruments",
+      "TI series",
+      "{\"company\": \"Texas Instruments\"}",
+      "",
+      "Calculator"
     ]
   ]
 }
