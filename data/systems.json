@@ -2693,7 +2693,7 @@
     [
       "Handheld",
       "Cybiko",
-      "",
+      "{\"company\": \"Cybiko\"}",
       "",
       "PDA"
     ],
