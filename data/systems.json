@@ -1021,14 +1021,14 @@
       "",
       "Symbian",
       "{\"company\": \"Nokia\"}",
-      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
       "Mobile"
     ],
     [
       "Mobile",
       "Symbian",
       "{\"company\": \"Nokia\"}",
-      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
       "Mobile"
     ],
     [
@@ -2715,7 +2715,7 @@
       "Handheld",
       "Symbian",
       "{\"company\": \"Nokia\"}",
-      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
       "Mobile"
     ],
     [
