@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1178",
+  "range": "Systems!A1:E1179",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -43,6 +43,13 @@
       "",
       "",
       "Computer"
+    ],
+    [
+      "American Laser Games",
+      "3DO-based Arcade",
+      "",
+      "{\"empty_suffix\":{\"redump\":\"Discs\"}}",
+      "Arcade"
     ],
     [
       "Amstrad",
