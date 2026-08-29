@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1179",
+  "range": "Systems!A1:E1180",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -2406,6 +2406,13 @@
     [
       "VTech",
       "CreatiVision",
+      "",
+      "",
+      "Console"
+    ],
+    [
+      "VTech",
+      "Learning Laptop",
       "",
       "",
       "Console"
