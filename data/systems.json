@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1180",
+  "range": "Systems!A1:E1181",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -2315,6 +2315,13 @@
     [
       "",
       "TeknoParrot Collection",
+      "{\"system\": \"TeknoParrot\"}",
+      "",
+      "Arcade"
+    ],
+    [
+      "",
+      "TeknoParrot Supplementary",
       "{\"system\": \"TeknoParrot\"}",
       "",
       "Arcade"
