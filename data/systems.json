@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1181",
+  "range": "Systems!A1:E1182",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -2358,6 +2358,13 @@
       "Tiger",
       "Gizmondo",
       "{\"system_type\": \"Handheld\"}",
+      "",
+      "Handheld"
+    ],
+    [
+      "",
+      "Timetop Gameking",
+      "{\"company\": \"Timetop\", \"system\": \"GameKing\", \"system_type\": \"Handheld\"}",
       "",
       "Handheld"
     ],
