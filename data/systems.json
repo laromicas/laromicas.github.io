@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1182",
+  "range": "Systems!A1:E1184",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -818,6 +818,20 @@
       "Konami",
       "System GV",
       "",
+      "",
+      "Arcade"
+    ],
+    [
+      "",
+      "LinuxLoader",
+      "",
+      "",
+      "Arcade"
+    ],
+    [
+      "",
+      "Linux Loader Collection",
+      "{\"system\": \"LinuxLoader\"}",
       "",
       "Arcade"
     ],
