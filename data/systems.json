@@ -1,5 +1,5 @@
 {
-  "range": "Systems!A1:E1184",
+  "range": "Systems!A1:E1185",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -533,6 +533,13 @@
       "{\"company\": \"RCA\"}",
       "",
       "Video"
+    ],
+    [
+      "",
+      "EggmanFruitMachines",
+      "{\"system\": \"Fruit\", \"suffix\": \"EggmanPrivate\"}",
+      "",
+      "Arcade"
     ],
     [
       "Emerson",
